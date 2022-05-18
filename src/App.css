@@ -1,0 +1,81 @@
+body{
+  background-color: rgb(200, 94, 62);
+  color: #333;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+
+}
+.quote-box {
+  border-radius: 10px;
+  position: relative;
+  margin: 8% 10% 8% auto;
+  width: 700px;
+  padding: 20px 30px;
+  display: table;
+  background-color: #fff;
+}
+.quotes
+{
+  border-radius: 4;
+}
+.newquote
+{
+  background-color: #fff;
+  margin: 2% ;
+  padding: 3%;
+  color: rgb(20, 92, 155);
+  border-radius: 2;
+  text-align: center;
+  
+}
+.quotation
+{
+  font-size: 4rem;
+}
+
+.author
+{
+  color: rgb(20, 92, 155);
+  text-align: end;
+  padding: auto 20% auto auto;
+
+}
+.tilde
+{
+  font-size: 1.22rem;
+}
+span{
+  margin: auto 4%;
+  font-size: larger;
+}
+.newauthor{
+  text-align: end;
+}
+/* .twitter
+{
+  text-decoration-line: none;
+} */
+.newquotetext
+{
+  text-align: center;
+  padding: 5% 5%;
+}
+.btn
+{
+  border-color: aqua;
+  border-style: groove;
+  border-bottom-width: 2px ;
+  border-right-width: 2px;
+  border-radius: 5;
+}
+.socials a
+{
+  font-size: 1.5rem;
+  color: rgb(85, 172, 172);
+
+}
